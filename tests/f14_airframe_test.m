@@ -1,7 +1,7 @@
 classdef f14_airframe_test < matlab.unittest.TestCase
     %f14_airframe_test   MATLAB unit test for the f14_airframe model
     
-    % Copyright 2013-2018 The MathWorks, Inc. testing random shit
+    % Copyright 2013-2018 The MathWorks, Inc.
     
     properties
         AirframeBusData
